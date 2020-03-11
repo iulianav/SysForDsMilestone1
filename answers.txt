@@ -1,0 +1,233 @@
+ApplicationId : application_1580812675067_0121
+
+User     : basil
+
+NumAttempts  : 1
+
+AttemptNumber : 1
+
+StartTime   : 2020-02-13 12:36:59,168
+
+EndTime   : 2020-02-13 12:37:10,704
+
+FinalStatus   : FINISHING
+
+Containers  :(1,iccluster056.iccluster.epfl.ch), (2,iccluster061.iccluster.epfl.ch), (3,iccluster060.iccluster.epfl.ch)
+
+
+
+ApplicationId : application_1580812675067_0122
+
+User     : basil
+
+NumAttempts  : 1
+
+AttemptNumber : 1
+
+StartTime   : 2020-02-13 12:38:08,305
+
+EndTime   : 2020-02-13 12:38:19,278
+
+FinalStatus   : FINISHING
+
+Containers  :(1,iccluster061.iccluster.epfl.ch), (2,iccluster056.iccluster.epfl.ch), (3,iccluster061.iccluster.epfl.ch)
+
+
+
+ApplicationId : application_1580812675067_0123
+
+User     : basil
+
+NumAttempts  : 2
+
+AttemptNumber : 1
+
+StartTime   : 2020-02-13 12:41:50,088
+
+EndTime   : 2020-02-13 12:56:26,991
+
+FinalStatus   : FAILED
+
+Containers  :(1,iccluster060.iccluster.epfl.ch), (2,iccluster063.iccluster.epfl.ch), (3,iccluster055.iccluster.epfl.ch), (4,iccluster062.iccluster.epfl.ch), (5,iccluster055.iccluster.epfl.ch)
+
+AttemptNumber : 2
+
+StartTime   : 2020-02-13 12:56:27,111
+
+EndTime   : 2020-02-13 13:01:25,928
+
+FinalStatus   : FAILED
+
+Containers  :(1,iccluster057.iccluster.epfl.ch), (2,iccluster057.iccluster.epfl.ch), (3,iccluster062.iccluster.epfl.ch), (4,iccluster062.iccluster.epfl.ch)
+
+
+
+ApplicationId : application_1580812675067_0124
+
+User     : basil
+
+NumAttempts  : 2
+
+AttemptNumber : 1
+
+StartTime   : 2020-02-13 12:54:57,790
+
+EndTime   : 2020-02-13 12:55:05,771
+
+FinalStatus   : FAILED
+
+Containers  :(1,iccluster055.iccluster.epfl.ch), (2,iccluster063.iccluster.epfl.ch), (3,iccluster055.iccluster.epfl.ch)
+
+AttemptNumber : 2
+
+StartTime   : 2020-02-13 12:55:05,891
+
+EndTime   : 2020-02-13 12:55:13,449
+
+FinalStatus   : FINISHING
+
+Containers  :(1,iccluster061.iccluster.epfl.ch), (2,iccluster063.iccluster.epfl.ch), (3,iccluster055.iccluster.epfl.ch)
+
+
+
+ApplicationId : application_1580812675067_0125
+
+User     : basil
+
+NumAttempts  : 1
+
+AttemptNumber : 1
+
+StartTime   : 2020-02-13 12:55:28,428
+
+EndTime   : 2020-02-13 12:56:13,560
+
+FinalStatus   : FINISHING
+
+Containers  :(1,iccluster055.iccluster.epfl.ch), (2,iccluster062.iccluster.epfl.ch), (3,iccluster056.iccluster.epfl.ch)
+
+
+
+ApplicationId : application_1580812675067_0126
+
+User     : basil
+
+NumAttempts  : 1
+
+AttemptNumber : 1
+
+StartTime   : 2020-02-13 12:56:41,429
+
+EndTime   : 2020-02-13 13:13:03,249
+
+FinalStatus   : KILLED
+
+Containers  :(1,iccluster063.iccluster.epfl.ch), (2,iccluster060.iccluster.epfl.ch), (3,iccluster063.iccluster.epfl.ch), (4,iccluster061.iccluster.epfl.ch), (5,iccluster062.iccluster.epfl.ch), (6,iccluster057.iccluster.epfl.ch), (7,iccluster062.iccluster.epfl.ch)
+
+
+
+ApplicationId : application_1580812675067_0127
+
+User     : basil
+
+NumAttempts  : 2
+
+AttemptNumber : 1
+
+StartTime   : 2020-02-13 13:13:21,726
+
+EndTime   : 2020-02-13 13:18:30,210
+
+FinalStatus   : FAILED
+
+Containers  :(1,iccluster055.iccluster.epfl.ch), (2,iccluster056.iccluster.epfl.ch), (3,iccluster061.iccluster.epfl.ch), (4,iccluster061.iccluster.epfl.ch), (5,iccluster055.iccluster.epfl.ch)
+
+AttemptNumber : 2
+
+StartTime   : 2020-02-13 13:18:30,251
+
+EndTime   : 2020-02-13 13:20:36,573
+
+FinalStatus   : KILLED
+
+Containers  :(1,iccluster061.iccluster.epfl.ch), (2,iccluster062.iccluster.epfl.ch), (3,iccluster056.iccluster.epfl.ch), (4,iccluster057.iccluster.epfl.ch)
+
+
+
+ApplicationId : application_1580812675067_0128
+
+User     : basil
+
+NumAttempts  : 2
+
+AttemptNumber : 1
+
+StartTime   : 2020-02-13 13:20:45,553
+
+EndTime   : 2020-02-13 13:22:26,317
+
+FinalStatus   : FAILED
+
+Containers  :(1,iccluster057.iccluster.epfl.ch), (2,iccluster061.iccluster.epfl.ch), (3,iccluster060.iccluster.epfl.ch)
+
+AttemptNumber : 2
+
+StartTime   : 2020-02-13 13:22:26,347
+
+EndTime   : 2020-02-13 13:23:53,738
+
+FinalStatus   : FINISHING
+
+Containers  :(1,iccluster060.iccluster.epfl.ch), (2,iccluster063.iccluster.epfl.ch), (3,iccluster055.iccluster.epfl.ch)
+
+
+
+ApplicationId : application_1580812675067_0129
+
+User     : basil
+
+NumAttempts  : 1
+
+AttemptNumber : 1
+
+StartTime   : 2020-02-13 13:24:56,696
+
+EndTime   : 2020-02-13 13:25:42,977
+
+FinalStatus   : FINISHING
+
+Containers  :(1,iccluster055.iccluster.epfl.ch), (2,iccluster055.iccluster.epfl.ch), (3,iccluster057.iccluster.epfl.ch)
+
+
+
+ApplicationId : application_1580812675067_0130
+
+User     : basil
+
+NumAttempts  : 1
+
+AttemptNumber : 1
+
+StartTime   : 2020-02-13 13:38:41,882
+
+EndTime   : 2020-02-13 13:38:52,313
+
+FinalStatus   : FINISHING
+
+Containers  :(1,iccluster062.iccluster.epfl.ch), (2,iccluster055.iccluster.epfl.ch), (3,iccluster057.iccluster.epfl.ch)
+
+
+
+1. basil, 63
+
+2. basil, 36
+
+3. 2020-02-13: 29, 2020-02-11: 61, 2020-02-04: 1, 2020-02-12: 22, 2020-02-10: 14, 2020-02-16: 4
+
+4. 1465718
+
+5. 693092
+
+6. 7, iccluster055.iccluster.epfl.ch, iccluster056.iccluster.epfl.ch, iccluster057.iccluster.epfl.ch, iccluster060.iccluster.epfl.ch, iccluster061.iccluster.epfl.ch, iccluster062.iccluster.epfl.ch, iccluster063.iccluster.epfl.ch
+
+7. iccluster055.iccluster.epfl.ch, 73
